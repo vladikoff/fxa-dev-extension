@@ -1,0 +1,15 @@
+{
+  "name": "fxa-dev-extension",
+  "version": "1.0.0",
+  "description": "FxA Browser Extension to make development faster",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vladikoff",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "gulp": "3.9.0",
+    "gulp-zip": "3.0.2"
+  }
+}
