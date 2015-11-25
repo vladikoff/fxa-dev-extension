@@ -13,7 +13,7 @@ If you are developing locally you have to manually verify your account using the
 
 Hack up Firefox via `about:config`, set `xpinstall.signatures.required` to `false`. Drag the `.xpi` from `dist` into Firefox. 
 
-This extension should also be packaged with https://github.com/mozilla/fxa-local-dev when you use `npm start`
+Coming soon: This extension should also be packaged with https://github.com/mozilla/fxa-local-dev when you use `npm start`
 
 ### Chrome
 
